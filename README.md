@@ -23,8 +23,8 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 ```
 /*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: HIRUTHIK SUDHAKAR
-RegisterNumber:  2122232400054
+Developed by: REHAN JEYAN
+RegisterNumber:  212223040167
 */
 ```
 ```python
